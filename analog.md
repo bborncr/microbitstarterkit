@@ -32,8 +32,9 @@ basic.forever(function () {
 ```
 
 ## Step 4 Upload the Code
-
+Upload the Code
 Pair the micro:bit and Download the code
 
 ## Step 5 Open the Device Console
-Show the Device
+Open the Device Console
+Show console Device
