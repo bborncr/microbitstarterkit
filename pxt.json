@@ -3,12 +3,12 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "pxt-sensor": "github:monkmakes/pxt-sensor#v0.0.2"
+        "radio": "*"
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "analog.md"
     ],
     "testFiles": [
         "test.ts"
